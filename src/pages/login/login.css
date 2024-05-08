@@ -1,0 +1,91 @@
+.content{
+    font-size: large;
+    text-align: center;
+}
+
+.content img{
+    margin: 12rem 0 -2rem 0;
+}
+
+
+.content-login form input[type="text"]{
+    padding: 0.2rem  4.8rem 0.2rem 4.8rem;
+    margin-bottom: 1rem;
+    border: none;
+    border-bottom: #158A8A solid 1.8px;
+    font-size: 1rem;
+    color: #9D9D9D;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.content-login form input[type="submit"] {
+    background-color: #158A8A;
+    color:#EEE;
+    padding: 0.5rem 8.2rem 0.5rem 8.2rem;
+    margin-top: 1rem;
+    font-size: 20px;
+    border-radius: 4.138px;
+    border: none;
+    margin-bottom: 1rem;
+}
+
+.content-login .span-1{
+    color: #9D9D9D;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+ .content-login .span-2{
+    color: #158A8A;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.content .content-login form p{
+    margin-left: 13rem;
+    margin-top: -0.5rem;
+    font-size: 14px;
+    color: #158A8A;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+.content .content-login-apps {
+    width: 4rem;
+    height: 4rem;
+    margin: 4rem 0 0 4rem;
+    border-radius: 4.322px;
+    border: 0.864px solid var(--shapes-stroke, #E3E3E5);
+    background: var(--shapes-boxes, #FAFAFC);
+}
+
+.content .google{
+    padding: 4rem 0 0 4rem ;
+}
+
+
+.content .google .icon-google{
+    font-size:50px;
+}
+
+
+.content .google .icon-face{
+    font-size:45px;
+    padding-left: 4rem;
+    color: blue;
+}
+

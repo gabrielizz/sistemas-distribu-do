@@ -1,0 +1,52 @@
+.pagamento{
+    margin: 2rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.pagamento .img-pagamento {
+    margin-top: 6rem;
+}
+
+.pagamento .img-pagamento img{
+    width: 16rem;
+    height: 14rem;
+}
+
+.pagamento h6 {
+    color: #A0A0A0;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 6rem;
+}
+
+.pagamento h6 a{
+    color: #158A8A;
+}
+
+.pagamento h3{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #158A8A;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.pagamento p {
+    font-family: Poppins;
+    margin-top: 10rem;
+    color: #A0A0A0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center;
+}

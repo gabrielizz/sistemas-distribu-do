@@ -1,0 +1,77 @@
+.conteudo-home {
+  background-color: white;
+}
+
+.conteudo-home .home-img{
+    width: 100%;
+    height: auto;
+}
+
+.conteudo-home .home-img img{
+    max-width: 100%;
+    opacity: 1;
+}
+
+.conteudo-home h2{
+    color: #ffffff;
+    font-family: Prata;
+    font-size: 47px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    margin-top: -4rem;
+}
+
+
+.conteudo-home h2 span{
+    color: rgb(0, 6, 4);
+}
+
+.conteudo-home .ofertas{
+  color: #313131;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-left: 1rem;
+  margin-top: 2rem;
+}
+
+.conteudo-home .precos{
+  color: #313131;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  margin-left: 1rem;
+}
+
+.cards{
+    width: 100vw;
+    height: 75rem;
+    background-color: white;
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-top: 1rem;
+    gap: 2rem;
+    padding: 1rem;
+}
+
+.card-1{
+  width: 18rem;
+  height: 20rem;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  margin-left: 2rem;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+.card-1 img{
+    height: 19rem;
+    margin: 1rem 0 1rem 1rem;
+    width: 16rem;
+    border-radius: 10px;
+ }

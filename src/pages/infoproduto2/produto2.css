@@ -1,0 +1,57 @@
+.produtos-home .topo{
+    margin: 4rem 1rem 0 1rem;
+}
+
+.produtos-home .topo .img-geladeira{
+    width: 18rem;
+    height: 15rem;
+    margin-left: 2rem;
+}
+
+.produtos-home .topo .img-info{
+    width: 22rem;
+    height: 10rem;
+}
+
+.produtos-home .botoes{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.produtos-home .botoes .botao1{
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    width: 20rem;
+    color: #FFF;
+    background-color: #158A8A;
+    cursor: pointer;
+}
+.produtos-home .botoes .botao2{
+    margin-bottom: 0.5rem;
+    width: 20rem;
+    color: #158A8A;
+    background-color: transparent;
+    border: 1px solid #158A8A;
+    cursor: pointer;
+}
+
+.produtos-home h6{
+    color: #158A8A;
+    text-align: center;
+    align-items: center;
+    margin-top: 1.5rem;
+}
+
+.produtos-home p{
+    margin-left: 1rem;
+    padding: 1rem;
+    justify-content: justify;
+    align-items: center;
+    text-align:justify;
+    color:  #A0A0A0;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
